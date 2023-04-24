@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+
+    <!--    Status task-->
+    <string name="status_task_todo">A fazer</string>
+    <string name="status_task_doing">Fazendo</string>
+    <string name="status_task_done">Feitas</string>
+    <string name="hint_edit_email">Digite seu e-mail</string>
+    <string name="hint_edit_password">Digite sua senha</string>
+
+    <!--    generic -->
+    <string name="text_title_warning">Atenção</string>
+    <string name="text_button_warning">Entendi</string>
+    <string name="email_text">E-mail</string>
+    <string name="email_empty">Preencha seu email</string>
+    <string name="password_empty">Preencha sua senha</string>
+    <string name="password_text">Senha</string>
+
+    <!-- Login -->
+    <string name="text_title_register_login_fragment">Login</string>
+    <string name="text_button_register_login_fragment">Criar conta</string>
+    <string name="text_button_recover_login_fragment">Recuperar conta</string>
+
+
+
+    <!--    register fragment -->
+    <string name="email_empty_register_fragment">Preencha um e-mail válido</string>
+    <string name="password_empty_register_fragment">Preencha uma senha</string>
+    <string name="text_button_register_fragment">Criar Conta</string>
+    <string name="text_title_toolbar_register_fragment">Criar conta</string>
+
+
+
+
+    <!-- Recover Account Fragment -->
+    <string name="text_info_recover_account_fragment">Informe seu e-mail de cadastro para receber um link para alteração de senha</string>
+    <string name="text_title_toolbar_recover_account_fragment">Recuperar conta</string>
+    <string name="text_button_toolbar_recover_account_fragment">Enviar</string>
+
+    <!--    Form task fragment -->
+    <string name="description_empty_form_task_fragment">Preencha uma descrição</string>
+
+</resources>
